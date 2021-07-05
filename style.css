@@ -1,8 +1,11 @@
+html {
+  scroll-padding-top: 75px;
+}
+
 body {
   font-family: 'Quattrocento', serif;
   font-weight: 400;
   font-size: 18px;
-  scroll-padding-top: 75px;
 }
 
 /* Helper Classes */
