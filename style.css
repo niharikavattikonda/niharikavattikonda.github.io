@@ -1,0 +1,32 @@
+body {
+  font-family: 'Quattrocento', serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+/* Helper Classes */
+
+.header {
+  font-family: 'Quattrocento', serif;
+}
+
+.section-white {
+  background-color: #F1F2F6;
+  color: black;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.section-blue {
+  color: black;
+  background-color: #AEB8FE;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.section-bluest {
+  color: white;
+  background-color: #27187E;
+  padding: 20px;
+  overflow: hidden;
+}
